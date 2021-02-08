@@ -1923,9 +1923,6 @@ hr.major {
 .intro-section {
   display: flex;
 }
-.inner:first-child {
-  margin-right: 20px;
-}
 
 input[type="submit"],
 input[type="reset"],
