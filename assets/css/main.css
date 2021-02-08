@@ -1916,7 +1916,7 @@ hr.major {
 /* Button */
 
 .headshot {
-  border-radius: 8px;
+  border-radius: 20px;
 }
 
 input[type="submit"],
@@ -2317,9 +2317,7 @@ button:hover:active:after,
 }
 
 /* Form */
-img {
-  border-radius: 20px;
-}
+
 form {
   margin: 0 0 2em 0;
 }
