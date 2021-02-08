@@ -1916,9 +1916,7 @@ hr.major {
 /* Button */
 
 .headshot {
-  border-radius: 20px;
-
-  margin-left: 130px;
+  border-radius: 8px;
 }
 
 input[type="submit"],
