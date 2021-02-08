@@ -1918,6 +1918,7 @@ hr.major {
 .headshot {
   border-radius: 20px;
   flex: 1;
+  margin-left: 150px;
 }
 .intro-section {
   display: flex;
