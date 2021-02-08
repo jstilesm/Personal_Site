@@ -1917,6 +1917,7 @@ hr.major {
 
 .headshot {
   border-radius: 8px;
+  margin-left: 65px;
 }
 
 input[type="submit"],
