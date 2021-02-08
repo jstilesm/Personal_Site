@@ -1818,6 +1818,10 @@ input, select, textarea {
 
 /* Button */
 
+	.headshot{
+		border-radius: 8px;
+	}
+
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
