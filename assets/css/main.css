@@ -1917,9 +1917,13 @@ hr.major {
 
 .headshot {
   border-radius: 20px;
+  flex: 1;
 }
 .intro-section {
   display: flex;
+}
+.inner:first-child {
+  margin-right: 20px;
 }
 
 input[type="submit"],
