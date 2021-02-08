@@ -1918,6 +1918,9 @@ hr.major {
 .headshot {
   border-radius: 20px;
 }
+.intro-section {
+  display: flex;
+}
 
 input[type="submit"],
 input[type="reset"],
