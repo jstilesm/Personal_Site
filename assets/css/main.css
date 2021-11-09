@@ -1916,6 +1916,7 @@ hr.major {
 /* Button */
 
 .headshot {
+  height: 350px;
   border-radius: 8px;
   margin-left: 70px;
   margin-bottom: 10px;
